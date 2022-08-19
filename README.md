@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aline-sts
-- 👀 I’m interested in  Aprender e me desenvolver na area de  desenvolvimento Front end
-- 🌱 I’m currently learning  JavaScript.
+- 👀 I’m interested in  Aprender e me desenvolver na area de  desenvolvimento Back end
+- 🌱 I’m currently learning  Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  atraves do meu email: aline.sts.contato@gmail.com
 
